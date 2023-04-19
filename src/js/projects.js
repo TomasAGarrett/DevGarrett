@@ -11,15 +11,15 @@ function mapProjectsData() {
             "labels": [
                 {
                     "title": "Play",
-                    "link": "https://play.google.com/store/apps/details?id=com.hmz.al_quran"
+                    "link": ""
                 },
                 {
                     "title": "Web",
-                    "link": "https://mhmzdev.github.io/quran/"
+                    "link": ""
                 },
                 {
                     "title": "GitHub",
-                    "link": "https://github.com/mhmzdev/the-holy-quran-app"
+                    "link": ""
                 }
             ]
         },
@@ -30,15 +30,15 @@ function mapProjectsData() {
             "labels": [
                 {
                     "title": "Play",
-                    "link": "https://play.google.com/store/apps/details?id=com.hmz.folio"
+                    "link": ""
                 },
                 {
                     "title": "Web",
-                    "link": "http://mhmzdev.github.io/devfolio"
+                    "link": ""
                 },
                 {
                     "title": "GitHub",
-                    "link": "https://github.com/mhmzdev/devfolio"
+                    "link": ""
                 }
             ]
         },
@@ -49,11 +49,11 @@ function mapProjectsData() {
             "labels": [
                 {
                     "title": "GitHub",
-                    "link": "https://github.com/mhmzdev/awesome_snackbar_content"
+                    "link": ""
                 },
                 {
                     "title": "Package",
-                    "link": "https://pub.dev/packages/awesome_snackbar_content"
+                    "link": ""
                 }
             ]
         },
@@ -64,7 +64,7 @@ function mapProjectsData() {
             "labels": [
                 {
                     "title": "GitHub",
-                    "link": "https://github.com/mhmzdev/covid19-tracker-app"
+                    "link": ""
                 }
             ]
         },
@@ -75,15 +75,15 @@ function mapProjectsData() {
             "labels": [
                 {
                     "title": "App",
-                    "link": "https://apps.apple.com/hk/app/storius-app/id1581928786?l=en"
+                    "link": ""
                 },
                 {
                     "title": "Play",
-                    "link": "https://play.google.com/store/apps/details?id=com.storius.storiusapp"
+                    "link": ""
                 },
                 {
                     "title": "Web",
-                    "link": "https://storiusapp.com/"
+                    "link": ""
                 }
             ]
         },
