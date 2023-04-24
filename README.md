@@ -29,4 +29,4 @@ You can also follow my GitHub Profile to stay updated about my latest projects:
 
 [![GitHub Follow](https://img.shields.io/badge/Connect-Garrett-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/TomasAGarrett)
 
-[live]: TomasAGarrett.github.io
+[live]: https://devgarrett.vercel.app/
